@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/VictorOliveira/Documents/Mono_Projects/ProjectClass/ProjectClass/Content/background.png","C:/Users/VictorOliveira/Documents/Mono_Projects/ProjectClass/ProjectClass/Content/bin/DesktopGL/background.xnb","TextureProcessor","Texture2DContent",6071,1536085,0,1787821
+"C:/Users/VictorOliveira/Documents/Mono_Projects/ProjectClass/ProjectClass/Content/ball.png","C:/Users/VictorOliveira/Documents/Mono_Projects/ProjectClass/ProjectClass/Content/bin/DesktopGL/ball.xnb","TextureProcessor","Texture2DContent",2246,4181,0,0027712
+"C:/Users/VictorOliveira/Documents/Mono_Projects/ProjectClass/ProjectClass/Content/bar.png","C:/Users/VictorOliveira/Documents/Mono_Projects/ProjectClass/ProjectClass/Content/bin/DesktopGL/bar.xnb","TextureProcessor","Texture2DContent",179,9685,0,0021971
