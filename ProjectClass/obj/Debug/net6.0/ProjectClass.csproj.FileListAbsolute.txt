@@ -24,3 +24,4 @@ C:\Users\VictorOliveira\Documents\Mono_Projects\ProjectClass\ProjectClass\obj\De
 C:\Users\VictorOliveira\Documents\Mono_Projects\ProjectClass\ProjectClass\obj\Debug\net6.0\ProjectClass.genruntimeconfig.cache
 C:\Users\VictorOliveira\Documents\Mono_Projects\ProjectClass\ProjectClass\obj\Debug\net6.0\ref\ProjectClass.dll
 C:\Users\VictorOliveira\Documents\Mono_Projects\ProjectClass\ProjectClass\bin\Debug\net6.0\Content\arial24.xnb
+C:\Users\VictorOliveira\Documents\Mono_Projects\ProjectClass\ProjectClass\obj\Debug\net6.0\ProjectClass.sourcelink.json
